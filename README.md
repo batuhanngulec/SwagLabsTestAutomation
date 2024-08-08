@@ -55,7 +55,7 @@ Each test file includes a variety of test cases:
     ```
 2. Navigate to the project directory:
     ```bash
-    cd MobileUiTest
+    cd SwagLabsTest
     ```
 3. Install the project dependencies:
     ```bash
