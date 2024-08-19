@@ -2,7 +2,7 @@
 import Helper from "./helper";
 import { mobile, desktop, url, unregisterServiceWorkers } from './helper';
 
-describe('Cart Action Tests', () => {
+describe('Make Purchase Tests', () => {
     beforeEach(() => {     
         // Unregister service workers
         unregisterServiceWorkers();
