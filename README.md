@@ -1,6 +1,6 @@
 # Swag Labs Cypress Test Automation 
 
-This project is an automated testing framework created using Cypress for e-commerce sites. It tests various functionalities and user interactions on both mobile and desktop browsers.
+This project is an automated testing framework created using Cypress for e-commerce sites. It tests various functionalities and user interactions on both mobile and desktop browsers. The framework includes comprehensive test reporting using Mochawesome, providing detailed insights into test execution. Additionally, the project is integrated with Jenkins CI for continuous integration, enabling automated test runs and report generation in a CI/CD pipeline.
 
 ## Project Overview
 
@@ -186,3 +186,11 @@ pipeline {
 ```
 
 ![Jenkins Test Results](./cypress/reports/img/jenkins-test-results.png)
+
+## References
+
+Here are some resources that were instrumental in building and maintaining this project:
+
+- [Cypress](https://www.cypress.io) - End-to-end testing framework used for automating the tests.
+- [Jenkins](https://www.jenkins.io) - Continuous integration server used to automate the running of tests.
+- [Cypress Mochawesome Reporter](https://www.npmjs.com/package/cypress-mochawesome-reporter) - Reporter plugin used for generating detailed test reports.
