@@ -2,5 +2,10 @@
   "dependencies": {
     "cypress": "^13.13.1",
     "cypress-xpath": "^2.0.1"
+  },
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run --browser chrome",
+    "cypress:headless": "cypress run --headless"
   }
 }
