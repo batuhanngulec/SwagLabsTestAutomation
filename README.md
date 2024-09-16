@@ -195,3 +195,4 @@ Here are some resources that were instrumental in building and maintaining this 
 - [Jenkins](https://www.jenkins.io) - Continuous integration server used to automate the running of tests.
 - [Cypress Mochawesome Reporter](https://www.npmjs.com/package/cypress-mochawesome-reporter) - Reporter plugin used for generating detailed test reports.
 - [Cypress XPath](https://www.npmjs.com/package/cypress-xpath) - Plugin for using XPath selectors in Cypress tests.
+- [Git Action](https://github.com/cypress-io/github-action) - For continuous integration and continuous delivery (CI/CD) platform that automates build, test, and deployment pipelines.
